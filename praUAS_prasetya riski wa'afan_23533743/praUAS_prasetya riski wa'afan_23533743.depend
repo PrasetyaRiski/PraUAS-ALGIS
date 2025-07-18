@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1752557088 source:c:\dataku kuliah\semester 4\algoritma strategis\tugasbesar\prauas_prasetya riski wa'afan_23533743\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<iomanip>
+
